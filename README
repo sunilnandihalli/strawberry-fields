@@ -1,13 +1,2 @@
-# sbfield
-
-FIXME: write description
-
-## Usage
-
-FIXME: write
-
-## License
-
-Copyright (C) 2011 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+Solution to the strawberry-fields ita-problem using genetic-algorithm in clojure. GA does have a limitation in terms
+of not spanning the entire solution-space.
